@@ -1,0 +1,183 @@
+body {
+    margin: 0;
+    background-image: url(../pupinimg/pupin1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#main {
+    margin: 8% auto;
+    width: 75%;
+    background-color: rgba(156, 195, 202, 0.475);
+    box-shadow: 7px 7px 9px #9291a3;
+    border-radius: 5px;
+    overflow: hidden;
+    /*Mogao bih ovde da dodam svojstvo display: flow-root;*/
+    
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+    text-shadow: 3px -3px 5px rgba(99, 81, 81, 0.808);
+    font-family: 'Girassol', cursive;
+    font-family: 'Paytone One', sans-serif;
+    color: #342569;
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+
+h2 {
+    text-shadow: 3px -3px 5px rgba(99, 81, 81, 0.808);
+    font-family: 'Girassol', cursive;
+    font-family: 'Paytone One', sans-serif;
+    color: #11092f;
+    font-weight: 100;
+    margin-top: 0;
+}
+
+img {
+    float: right;
+    margin-left: 3px;
+    vertical-align: bottom;
+
+}
+
+nav {
+    float: left;
+    width: 28%;
+    margin-left: 7px;
+    box-sizing: border-box;
+    color: #551a8b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5rem;
+    text-shadow: 3px -3px 3px darkgray;
+    
+}
+
+section {
+   float: left;
+   width: 68%;
+   padding-left: 25px;
+   box-sizing: border-box;
+
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+hr {
+    height: 4px;
+    margin: 8px;
+    background-color: #551a8b;
+    width: 70%;
+}
+
+p {
+    font-family: 'Quando', serif;
+    color: rgb(22, 42, 42);
+    text-shadow: 2px -2px 2px floralwhite;
+    font-size: 1.5rem;
+    margin-top: 0;
+
+}
+
+.cite {
+    text-indent: 10%;
+    font-style: oblique;
+    color: rgb(117, 109, 73);
+    text-shadow: 1px -1px 1px black;
+
+}
+
+h1 span {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 2.3em;
+    color: #58469c;
+    font-style: oblique;
+
+}
+
+.sign {
+    margin: 0;
+    color: rgb(9, 4, 85);
+    font-size: 1rem;
+    
+}
+
+
+    /* <<< STILIZOVANJE TABELE >>> */
+
+table {
+    display: table;
+    border: 5px solid rgba(42, 34, 126, 0.8);
+    border-collapse: collapse;
+    background-image: url(../pupinimg/PupinSign.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(10, 48, 83);
+    text-shadow: 3px -3px 3px rgb(193, 187, 197);
+    font-weight: 600;
+    margin-bottom: 5%;
+
+}
+
+.title1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+
+}
+
+.title2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+
+}
+
+th {
+    border: 5px solid rgb(42, 34, 126, 0.8);
+    padding: 12px;
+
+}
+
+td {
+    border: 3px solid rgb(42, 34, 126, 0.550);
+    padding: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+
+}
+
+.middle {
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
